@@ -1,4 +1,4 @@
-ua_parser C# Library
+Giedo
 ======================
 
 This is the CSharp implementation of [ua-parser](https://github.com/tobie/ua-parser). You can find the latest binaries on NuGet [here](https://www.nuget.org/packages/UAParser/).
